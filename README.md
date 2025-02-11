@@ -18,10 +18,6 @@
 **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, AJAX, Gmail SMTP  
 📌 Developed an automated system for attendance tracking, integrating **email notifications** for students with shortages. Improved efficiency and teacher-student communication.  
 
-## 🎓 Education  
-🎓 **B.E. in Computer Science & Engineering** | Cauvery Institute of Technology (2021-2025)  
-🎓 **PUC (PCMB)** | Mandavya PU College (2019-2021)  
-
 ## 📜 Certifications  
 ✅ QSpiders Internship - **C, Data Structures, Java**  
 ✅ ExcelR Training - **Git & GitHub (20-hour program)**  
