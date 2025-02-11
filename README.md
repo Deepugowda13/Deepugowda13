@@ -1,4 +1,4 @@
-# Hi 👋, I'm Deepika Gowda  
+# Hi 👋, I'm Deepika N N   
 ### Software Developer | Cloud Enthusiast | DevOps Learner  
 
 🔹 Enthusiastic software developer passionate about cloud computing and automation.  
