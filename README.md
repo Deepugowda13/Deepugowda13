@@ -2,7 +2,7 @@
 ### Software Developer | Cloud Enthusiast | DevOps Learner  
 
 🔹 Enthusiastic software developer passionate about cloud computing and automation.  
-🔹 Strong foundation in **Java, Python, JavaScript, and SQL**.  
+🔹 Strong foundation in ** Core Java, Python, JavaScript, and SQL**.  
 🔹 Currently learning **CI/CD, GitHub Actions, AWS, and DevOps practices**.  
 
 ## 🔧 Skills & Technologies  
