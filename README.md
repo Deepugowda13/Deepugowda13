@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Deepika Gowda  
+### Software Developer | Cloud Enthusiast | DevOps Learner  
 
-<!--
-**Deepugowda13/Deepugowda13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Enthusiastic software developer passionate about cloud computing and automation.  
+🔹 Strong foundation in **Java, Python, JavaScript, and SQL**.  
+🔹 Currently learning **CI/CD, GitHub Actions, AWS, and DevOps practices**.  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies  
+- **Programming:** Java, Python, JavaScript, C  
+- **Frontend:** HTML5, CSS3  
+- **Database:** SQL  
+- **DevOps & Tools:** Git, GitHub, GitHub Actions, Docker  
+- **UI/UX Design:** Figma  
+- **Soft Skills:** Critical Thinking, Decision-Making, Project Ownership  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects  
+### **Student Attendance Management System with E-mail Notification**  
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, AJAX, Gmail SMTP  
+📌 Developed an automated system for attendance tracking, integrating **email notifications** for students with shortages. Improved efficiency and teacher-student communication.  
+
+## 🎓 Education  
+🎓 **B.E. in Computer Science & Engineering** | Cauvery Institute of Technology (2021-2025)  
+🎓 **PUC (PCMB)** | Mandavya PU College (2019-2021)  
+
+## 📜 Certifications  
+✅ QSpiders Internship - **C, Data Structures, Java**  
+✅ ExcelR Training - **Git & GitHub (20-hour program)**  
+
+## 📬 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/deepika-gowda-15v13)  
+📧 deepikagowda1513@gmail.com
